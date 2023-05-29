@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gujijiu&count_private=true&show_icons=true&theme=radicalhide_title=true&show_icons=true" />
 
 <!--
-**piexlmax/piexlmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gujijiu/gujijiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
  -->
@@ -19,23 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](#)
+[![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](#)[![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)[![](https://img.shields.io/badge/Webpack-4FC08D?style=flat-square&logo=Webpack&logoColor=white)](#)[![](https://img.shields.io/badge/Vite-1E90FF?style=flat-square&logo=Vite&logoColor=white)](#)[![](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white)](#)[![](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](#)
 
-[![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)
-
-[![](https://img.shields.io/badge/Webpack-4FC08D?style=flat-square&logo=Webpack&logoColor=white)](#)
-
-[![](https://img.shields.io/badge/Vite-1E90FF?style=flat-square&logo=Vite&logoColor=white)](#)
-
-[![](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white)](#)
-
-[![](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](#)
-
-[![](https://img.shields.io/badge/PHP-61DAFB?style=flat-square&logo=php&logoColor=white)](#)
-
-[![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](#)
-
-[![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
-
-<!-- github活跃统计图 -->
-<img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=gujijiu&theme=xcode" />
+[![](https://img.shields.io/badge/PHP-61DAFB?style=flat-square&logo=php&logoColor=white)](#)[![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](#)[![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)
